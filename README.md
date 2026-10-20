@@ -42,7 +42,7 @@ Native banner in Projects and Settings, outside the camera. An unavailable ad do
 
 ## Download and updates | دریافت و به‌روزرسانی
 
-Android APK, version **1.0.3**. Package: `com.sinatools.armeasure`.
+Android APK, version **1.0.4**. Package: `com.sinatools.armeasure`.
 For updates, install over the existing app to preserve its local data. Do not uninstall first.
 
 برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
@@ -50,3 +50,28 @@ For updates, install over the existing app to preserve its local data. Do not un
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+Sample project and settings screens. AR accuracy validation is still in progress.
+
+تصاویر پروژهٔ نمونه و تنظیمات؛ بررسی دقت اندازه‌گیری هنوز کامل نشده است.
+
+### English
+
+<img src="screenshots/en/01-sample-projects.png" width="240" alt="AR Measure en 01-sample-projects" />
+<img src="screenshots/en/02-sample-measurements.png" width="240" alt="AR Measure en 02-sample-measurements" />
+<img src="screenshots/en/03-export.png" width="240" alt="AR Measure en 03-export" />
+<img src="screenshots/en/04-settings.png" width="240" alt="AR Measure en 04-settings" />
+<img src="screenshots/en/05-measurement-guide.png" width="240" alt="AR Measure en 05-measurement-guide" />
+
+### فارسی
+
+<img src="screenshots/fa/01-sample-projects.png" width="240" alt="AR Measure fa 01-sample-projects" />
+<img src="screenshots/fa/02-sample-measurements.png" width="240" alt="AR Measure fa 02-sample-measurements" />
+<img src="screenshots/fa/03-export.png" width="240" alt="AR Measure fa 03-export" />
+<img src="screenshots/fa/04-settings.png" width="240" alt="AR Measure fa 04-settings" />
+<img src="screenshots/fa/05-measurement-guide.png" width="240" alt="AR Measure fa 05-measurement-guide" />
+

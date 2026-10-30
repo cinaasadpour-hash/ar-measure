@@ -1,0 +1,14 @@
+{
+  "package": "com.sinatools.armeasure",
+  "versionName": "1.0.4",
+  "versionCode": 5,
+  "sha256": "7c4d71ccd9015627e05a52987f846998674ca1dc7fc30c193b39c7f061372d10",
+  "certificateSha256": "5dfae720f4e370b6f7304b67d1387b2a9ae970e49e04cad5082aac8092e08f7e",
+  "containsAds": true,
+  "adTypes": [
+    "native"
+  ],
+  "experimental": true,
+  "storeAccuracyHold": true,
+  "verifiedDate": "2026-10-30"
+}

@@ -1,0 +1,10 @@
+AR Measure brings camera-based measuring tools and organized measurement projects to your phone.
+
+• Measure distance, height, paths and supported area or volume shapes.
+• Place points with the center target or by tapping the camera image.
+• Use supported ARCore plane and depth information; verify that the selected point lies on the intended surface.
+• Use Photo Measurement with a known reference length on the same plane.
+• Save sample or real projects and export reports as PDF, CSV or JSON.
+• Choose units, language and appearance.
+
+AR measurements are approximate. Compatibility, lighting, surface texture, camera movement and distance affect the result. Plain walls, reflective surfaces and moving objects can be difficult to measure. Scan the scene with gentle sideways movement before placing points. A green target indicates a usable hit, not a guarantee of accuracy. Check important dimensions with a physical ruler or tape. Photo scaling also depends on correct reference points and perspective.
